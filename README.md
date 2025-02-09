@@ -1,5 +1,5 @@
-#About Dataset
-##Context
+# About Dataset
+## Context
 
 Corona - COVID19 virus affects the respiratory system of healthy individual & Chest X -Ray is one of the important imaging methods to identify the corona virus.
 
