@@ -14,7 +14,7 @@ COVID 19 - https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 ARDS - https://en.wikipedia.org/wiki/Acute_respiratory_distress_syndrome
 Streptococcus - https://en.wikipedia.org/wiki/Streptococcus
 SARS - https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome
-
+![Untitled](https://github.com/user-attachments/assets/0d0cc005-dc3b-43f9-a81e-cb53806b8fa3)
 ## Acknowledgements
 
 I would like to thank to below team from Joseph Paul Cohen. Postdoctoral Fellow, Mila, University of Montreal for the dataset below for corona dataset & 80% dataset collected from different sources.
